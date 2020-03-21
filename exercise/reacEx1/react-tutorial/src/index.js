@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import CalendarView from './CalendarView';
 import Calendar from 'react-github-contribution-calendar';
 import * as serviceWorker from './serviceWorker';
 
